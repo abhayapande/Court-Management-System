@@ -1,4 +1,4 @@
-# Court Management System
+# CourtEase - Court Management System
 
 ## 1. Project Description
 
